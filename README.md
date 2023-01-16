@@ -1,3 +1,5 @@
 # convert_parquet-csv
-#pip install pandas 
-#pip install pyarrow
+=>you can use the following command:
+
+``pip install pandas`` 
+``pip install pyarrow``
